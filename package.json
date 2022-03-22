@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "express": "^4.17.3",
-    "faker": "^5.5.3"
+    "faker": "^5.5.3",
+    "readme-md-generator": "^1.0.0"
   }
 }
